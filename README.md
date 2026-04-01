@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Tiana 👋
 
-<!--
-**tianaccole/tianaccole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Chemical Engineer focused on climate, atmospheric data, and emissions analysis.
 
-Here are some ideas to get you started:
+## Interests
+- Methane emissions detection
+- Atmospheric modeling
+- Carbon capture and climate technologies
+- Data-driven environmental analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+- Python (NumPy, Pandas)
+- MODTRAN, COMSOL, Aspen Plus
+- Hyperspectral data analysis
+- Geospatial analysis
+
+## Featured Project
+### Airborne Remote Sensing Project
+Analyzed hyperspectral datasets to detect methane plumes and estimate emissions using atmospheric modeling and Python-based data processing.
+
+## Connect
+- [LinkedIn](http://linkedin.com/in/tianacole)
